@@ -1,1 +1,1 @@
-Actividades de Git y Giothub del curso bootcamp
+Actividades de Git y Github del curso bootcamp
