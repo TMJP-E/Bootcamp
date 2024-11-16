@@ -1,1 +1,1 @@
-Actividades de Git y Github del curso bootcamp
+El repositorio utilizado para el aprendizaje y practicas dentro de nuestro curso Bootcamp
